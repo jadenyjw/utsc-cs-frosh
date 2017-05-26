@@ -9,9 +9,9 @@ This page is dedicated to keeping track of important information regarding the C
 
 ## Contents
 
-- [Frequently Asked Questions](#frequently)
+- [Frequently Asked Questions](#frequently-asked-questions)
 - [Textbooks](#textbooks)
-- [Recommendations for First Year](#recommendations)
+- [Recommendations for First Year](#recommendations-for-first-year)
 
 ## Frequently Asked Questions
 
