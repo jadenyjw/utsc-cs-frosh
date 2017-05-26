@@ -3,6 +3,7 @@
 	<br>
 	<br>
 </h1>
+
 # University of Toronto Scarborough Computer Science
 This page is dedicated to keeping track of important information regarding the Computer Science, Mathematics, and Statistics program at the University of Toronto Scarborough. 
 
