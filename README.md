@@ -27,6 +27,10 @@ This page is dedicated to keeping track of important information regarding the C
 
 *At the moment, the required GPA to be accepted is 2.75. However, this is subject to change.*
 
+**What other courses do I have to take?**
+
+*You must fulfill your [breadth requirements](https://www.utsc.utoronto.ca/aacc/sites/utsc.utoronto.ca.aacc/files/tipsheets/Academic_Advising_Tipsheets/BreadthRequirements.pdf).*
+
 ## Textbooks
 
 Textbooks for many of the first year classes can be accessed [here](https://drive.google.com/drive/folders/0BxrdNKPmoDq-N2s0ekxlY0NWd0k).
