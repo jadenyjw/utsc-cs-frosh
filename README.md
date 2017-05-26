@@ -16,12 +16,15 @@ This page is dedicated to keeping track of important information regarding the C
 ## Frequently Asked Questions
 
 **What are the mandatory first year courses for a computer science student?**
+
 *The following courses are mandatory in order to apply for Computer Science POSt: [CSCA08H3](https://utsc.calendar.utoronto.ca/course/CSCA08H3), [CSCA48H3](https://utsc.calendar.utoronto.ca/course/CSCA48H3), [CSCA67H3](https://utsc.calendar.utoronto.ca/course/CSCA67H3), [MATA22H3](https://utsc.calendar.utoronto.ca/course/MATA22H3), [MATA31H3](https://utsc.calendar.utoronto.ca/course/MATA31H3), and [MATA37H3](https://utsc.calendar.utoronto.ca/course/MATA37H3).
 
 **What is POSt?**
+
 *POSt stands for Program of Study. You may declare a major/specialization of your choice depending on your first year marks.*
 
 **What is the required GPA to successfully be admitted into Computer Science POSt?**
+
 *At the moment, the required GPA to be accepted is 2.75. However, this is subject to change.*
 
 ## Textbooks
