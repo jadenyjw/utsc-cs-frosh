@@ -36,3 +36,18 @@ This page is dedicated to keeping track of important information regarding the C
 Textbooks for many of the first year classes can be accessed [here](https://drive.google.com/drive/folders/0BxrdNKPmoDq-N2s0ekxlY0NWd0k).
 
 ## Recommendations for First Year
+
+### Recreation
+
+The Toronto Panam Centre is an excellent place for exercising and sports, with world-class facilities. Further information regarding the Panam Centre can be found [here](http://www.utsc.utoronto.ca/athletics/frequently-asked-questions).
+
+### Food
+
+Some recommended food places to try include:
+
+- Nasir's Hot Dogs
+- Osmow's Grill
+- Popeyes
+
+### Transportation
+
