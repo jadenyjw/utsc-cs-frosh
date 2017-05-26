@@ -17,7 +17,7 @@ This page is dedicated to keeping track of important information regarding the C
 
 **What are the mandatory first year courses for a computer science student?**
 
-*The following courses are mandatory in order to apply for Computer Science POSt: [CSCA08H3](https://utsc.calendar.utoronto.ca/course/CSCA08H3), [CSCA48H3](https://utsc.calendar.utoronto.ca/course/CSCA48H3), [CSCA67H3](https://utsc.calendar.utoronto.ca/course/CSCA67H3), [MATA22H3](https://utsc.calendar.utoronto.ca/course/MATA22H3), [MATA31H3](https://utsc.calendar.utoronto.ca/course/MATA31H3), and [MATA37H3](https://utsc.calendar.utoronto.ca/course/MATA37H3).
+*The following courses are mandatory in order to apply for Computer Science POSt: [CSCA08H3](https://utsc.calendar.utoronto.ca/course/CSCA08H3), [CSCA48H3](https://utsc.calendar.utoronto.ca/course/CSCA48H3), [CSCA67H3](https://utsc.calendar.utoronto.ca/course/CSCA67H3), [MATA22H3](https://utsc.calendar.utoronto.ca/course/MATA22H3), [MATA31H3](https://utsc.calendar.utoronto.ca/course/MATA31H3), and [MATA37H3](https://utsc.calendar.utoronto.ca/course/MATA37H3).*
 
 **What is POSt?**
 
