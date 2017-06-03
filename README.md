@@ -29,7 +29,7 @@ This page is dedicated to keeping track of important information regarding the C
 
 **What other courses do I have to take?**
 
-*You must fulfill your [breadth requirements](https://www.utsc.utoronto.ca/aacc/sites/utsc.utoronto.ca.aacc/files/tipsheets/Academic_Advising_Tipsheets/BreadthRequirements.pdf).*
+*You must fulfill your [breadth requirements](https://www.utsc.utoronto.ca/aacc/sites/utsc.utoronto.ca.aacc/files/tipsheets/Academic_Advising_Tipsheets/BreadthRequirements.pdf) as well as a writing requirement.*
 
 ## Textbooks
 
