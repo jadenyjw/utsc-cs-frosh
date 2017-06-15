@@ -37,6 +37,10 @@ Textbooks for many of the first year classes can be accessed [here](https://driv
 
 ## Recommendations for First Year
 
+### Computer Science Handbook
+
+A handbook filled with extensive information pertaining to Computer Science. Credits to [Kohilan](https://github.com/kohilanmohanarajan) for creating this handbook.
+
 ### Recreation
 
 The Toronto Panam Centre is an excellent place for exercising and sports, with world-class facilities. Further information regarding the Panam Centre can be found [here](http://www.utsc.utoronto.ca/athletics/frequently-asked-questions).
