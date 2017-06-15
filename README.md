@@ -39,7 +39,7 @@ Textbooks for many of the first year classes can be accessed [here](https://driv
 
 ### Computer Science Handbook
 
-A handbook filled with extensive information pertaining to Computer Science. Credits to [Kohilan](https://github.com/kohilanmohanarajan) for creating this handbook.
+A [handbook](https://github.com/jadenyjw/utsc-cs-frosh/blob/master/computer-science-students-handbook.pdf) filled with extensive information pertaining to Computer Science. Credits to [Kohilan](https://github.com/kohilanmohanarajan) for creating this handbook.
 
 ### Recreation
 
