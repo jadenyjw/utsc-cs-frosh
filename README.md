@@ -55,3 +55,4 @@ Some recommended food places to try include:
 
 ### Transportation
 
+A Post-Secondary Metropass costs $116.75 for a month. Tokens cost $3 each.
