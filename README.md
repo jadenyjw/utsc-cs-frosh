@@ -25,7 +25,7 @@ This page is dedicated to keeping track of important information regarding the C
 
 **What is the required GPA to successfully be admitted into Computer Science POSt?**
 
-*At the moment, the required GPA to be accepted is 2.75. However, this is subject to change.*
+*At the moment, the required GPA to be accepted is 3.0 (as of September 2017). However, this is always subject to change.*
 
 **What other courses do I have to take?**
 
