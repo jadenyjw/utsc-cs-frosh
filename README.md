@@ -33,7 +33,7 @@ This page is dedicated to keeping track of important information regarding the C
 
 ## Textbooks
 
-Textbooks for many of the first year classes can be accessed [here](https://drive.google.com/drive/folders/0BxIakQawMkpfT1dLY2M0eDdlUTg).
+Textbooks for many of the first year classes can be accessed [here](https://drive.google.com/open?id=1IF1doyxeuboARPxe9t4Es7kXBN5-eZrf).
 
 ## Recommendations for First Year
 
