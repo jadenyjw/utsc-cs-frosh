@@ -34,6 +34,8 @@ This page is dedicated to keeping track of important and useful information rega
 
 *0.5 credit from the following: ANTA01H3, ANTA02H3, (CLAA02H3), (CTLA19H3), CTLA01H3, ENGA10H3, ENGA11H3, ENGB06H3, ENGB07H3, ENGB08H3, ENGB09H3, ENGB17H3, ENGB19H3, ENGB50H3, (ENGB51H3), GGRA02H3, GGRA03H3, GGRB05H3, (GGRB06H3), (HISA01H3), (HLTA01H3), ACMA01H3, (HUMA01H3), (HUMA11H3), (HUMA17H3), (LGGA99H3), LINA01H3, PHLA10H3, PHLA11H3, WSTA01H3.*
 
+*Do not hesitate to use a CR/NCR on an elective. It assesses a course that is not required by your program on a pass/fail basis, and will not affect your GPA.*
+
 ## Textbooks
 
 Textbooks for many of the first year classes can be accessed [here](https://drive.google.com/open?id=1IF1doyxeuboARPxe9t4Es7kXBN5-eZrf).
