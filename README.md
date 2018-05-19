@@ -5,7 +5,7 @@
 </h1>
 
 # University of Toronto Scarborough Computer Science
-This page is dedicated to keeping track of important information regarding the Computer Science, Mathematics, and Statistics program at the University of Toronto Scarborough. 
+This page is dedicated to keeping track of important and useful information regarding the Computer Science, Mathematics, and Statistics program at the University of Toronto Scarborough Campus. 
 
 ## Contents
 
@@ -22,6 +22,7 @@ This page is dedicated to keeping track of important information regarding the C
 **What is POSt?**
 
 *POSt stands for Program of Study. You may declare a major/specialization of your choice depending on your first year marks.*
+*Note: A CS Minor cannot be paired with any other CMS program.*
 
 **What is the required GPA to successfully be admitted into Computer Science POSt?**
 
@@ -30,6 +31,8 @@ This page is dedicated to keeping track of important information regarding the C
 **What other courses do I have to take?**
 
 *You must fulfill your [breadth requirements](https://www.utsc.utoronto.ca/aacc/sites/utsc.utoronto.ca.aacc/files/tipsheets/Academic_Advising_Tipsheets/BreadthRequirements.pdf) as well as a writing requirement.*
+
+*0.5 credit from the following: ANTA01H3, ANTA02H3, (CLAA02H3), (CTLA19H3), CTLA01H3, ENGA10H3, ENGA11H3, ENGB06H3, ENGB07H3, ENGB08H3, ENGB09H3, ENGB17H3, ENGB19H3, ENGB50H3, (ENGB51H3), GGRA02H3, GGRA03H3, GGRB05H3, (GGRB06H3), (HISA01H3), (HLTA01H3), ACMA01H3, (HUMA01H3), (HUMA11H3), (HUMA17H3), (LGGA99H3), LINA01H3, PHLA10H3, PHLA11H3, WSTA01H3.*
 
 ## Textbooks
 
@@ -43,7 +46,8 @@ A [handbook](https://github.com/jadenyjw/utsc-cs-frosh/blob/master/computer-scie
 
 ### Recreation
 
-The Toronto Panam Centre is an excellent place for exercising and sports, with world-class facilities. Further information regarding the Panam Centre can be found [here](http://www.utsc.utoronto.ca/athletics/frequently-asked-questions).
+The Toronto Pan am Centre is an excellent place for exercising and sports, with world-class facilities. Various drop-in sports such as basketball, tennis, badminton, and table tennis are available to you as it is included in your tuition. Further information regarding the Pan am Centre can be found [here](http://www.utsc.utoronto.ca/athletics/frequently-asked-questions).
+
 
 ### Food
 
@@ -52,7 +56,3 @@ Some recommended food places to try include:
 - Nasir's Hot Dogs
 - Osmow's Grill
 - Popeyes
-
-### Transportation
-
-A Post-Secondary Metropass costs $116.75 for a month. Tokens cost $3 each.
