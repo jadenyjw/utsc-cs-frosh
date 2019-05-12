@@ -26,7 +26,7 @@ This page is dedicated to keeping track of important and useful information rega
 
 **What is the required GPA to successfully be admitted into Computer Science POSt?**
 
-*At the moment, the required GPA to be accepted is 3.0 (as of September 2017). However, this is always subject to change.*
+*At the moment, the required GPA to be accepted is 3.0 (as of September 2018). However, this is always subject to change.* However, CSCA08 and MATA31 are assesed with half the weight as the other courses.
 
 **What other courses do I have to take?**
 
@@ -38,7 +38,7 @@ This page is dedicated to keeping track of important and useful information rega
 
 ## Textbooks
 
-Textbooks for many of the first year classes can be accessed [here](https://drive.google.com/open?id=1IF1doyxeuboARPxe9t4Es7kXBN5-eZrf).
+Textbooks for many computer science classes can be found [here](https://drive.google.com/open?id=1IF1doyxeuboARPxe9t4Es7kXBN5-eZrf).
 
 ## Recommendations for First Year
 
@@ -50,11 +50,17 @@ A [handbook](https://github.com/jadenyjw/utsc-cs-frosh/blob/master/computer-scie
 
 The Toronto Pan am Centre is an excellent place for exercising and sports, with world-class facilities. Various drop-in sports such as basketball, tennis, badminton, and table tennis are available to you as it is included in your tuition. Further information regarding the Pan am Centre can be found [here](http://www.utsc.utoronto.ca/athletics/frequently-asked-questions).
 
-
 ### Food
 
-Some recommended food places to try include:
+You'll mainly be getting food from 3 places. Student Centre, Marketplace, and off campus.
 
-- Nasir's Hot Dogs
-- Osmow's Grill
-- Popeyes
+#### Student Centre
+Has a Subway, Hero Burger, and KFC Express. If you like Asian food (and potentially moths), there is an Asian Gourmet.
+
+#### Marketplace
+Don't know that many places here. There's a Pizza Pizza.
+
+#### Off Campus
+I mainly get food from off campus. Some places include Osmow's Grill and Popeye's.
+
+
